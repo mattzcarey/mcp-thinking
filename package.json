@@ -25,5 +25,21 @@
   },
   "trustedDependencies": [
     "@biomejs/biome"
-  ]
+  ],
+  "author": {
+    "name": "Matt Carey",
+    "url": "https://github.com/mattcarey"
+  },
+  "keywords": [
+    "mcp",
+    "model context protocol",
+    "thinking",
+    "deepseek",
+    "reasoning",
+    "claude",
+    "anthropic claude",
+    "o1",
+    "o3"
+  ],
+  "license": "MIT"
 }

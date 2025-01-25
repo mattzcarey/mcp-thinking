@@ -1,8 +1,8 @@
 # MCP Thinking Server
 
-![with a box of scraps](./meme.png)
+> Extract the thinking chain of thought of the Deepseek R1 reasoning model and use it in Claude Desktop or any MCP [client](https://www.youtube.com/watch?v=9mciRwpcLNY).
 
-> Extract the thinking chain of thought of the Deepseek R1 model and use it in Claude Desktop or any MCP [client](https://www.youtube.com/watch?v=9mciRwpcLNY).
+![with a box of scraps](./meme.png)
 
 ## Setup
 
