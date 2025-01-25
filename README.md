@@ -1,4 +1,6 @@
-# mcp-thinking
+# MCP Thinking Server
+
+![with a box of scraps](./meme.png)
 
 > Extract the thinking chain of thought of the Deepseek R1 model and use it in Claude Desktop or any MCP server.
 
