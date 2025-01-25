@@ -1,0 +1,29 @@
+{
+  "name": "mcp-thinking",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "inspect": "bunx @modelcontextprotocol/inspector bun src/index.ts",
+    "start": "bun src/index.ts",
+    "setup": "bun scripts/setup.ts",
+    "check": "biome check .",
+    "lint": "biome check --write .",
+    "lint:unsafe": "biome check --write --unsafe .",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/bun": "latest",
+    "dotenv": "^16.4.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.4.1",
+    "openai": "^4.80.1"
+  },
+  "trustedDependencies": [
+    "@biomejs/biome"
+  ]
+}
